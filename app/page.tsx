@@ -1666,7 +1666,6 @@ export default function Home() {
 
                     </div>
 
-
                     <div className="min-w-0 flex-1">
 
                       <p className="text-[10px] font-semibold uppercase tracking-[0.16em] text-[#88928C]">
