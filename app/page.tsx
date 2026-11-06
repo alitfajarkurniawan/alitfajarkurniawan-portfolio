@@ -1969,7 +1969,7 @@ export default function Home() {
 
             <div className="min-h-0 flex-1 bg-[#EEF3F0] p-3">
               <iframe
-                src="/cv/alit-fajar-kurniawan.pdf"
+                src="/cv/alitfajarkurniawan.pdf"
                 title="CV Alit Fajar Kurniawan"
                 className="h-full w-full rounded-2xl bg-white"
               />
@@ -1978,7 +1978,7 @@ export default function Home() {
             <div className="flex justify-end gap-3 border-t p-4">
 
               <a
-                href="/cv/alit-fajar-kurniawan.pdf"
+                href="/cv/alitfajarkurniawan.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="rounded-full border border-[#0B7A45] px-5 py-2.5 text-sm font-semibold text-[#0B7A45]"
