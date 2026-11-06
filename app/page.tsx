@@ -864,7 +864,7 @@ export default function Home() {
               <div className="flex flex-col rounded-3xl border border-black/[0.05] bg-[#F7FAF8] p-6">
                 <div className="flex justify-between gap-3">
                   <span className="rounded-full bg-[#DFF3E8] px-3 py-1 text-xs font-semibold text-[#0B7A45]">
-                    {isID ? "2024 — Sekarang" : "2024 — Present"}
+                    {isID ? "2024 — 2026" : "2024 — 2026"}
                   </span>
 
                   <span className="text-xs uppercase tracking-widest text-[#88928C]">
